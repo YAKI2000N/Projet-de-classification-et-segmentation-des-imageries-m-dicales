@@ -1,0 +1,4 @@
+30 epochs
+crossentropy+dice
+no data aug
+weights= 0.25 0.25 0.5

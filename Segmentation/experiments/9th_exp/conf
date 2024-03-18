@@ -1,0 +1,4 @@
+100 epochs
+crossentropy+dice
+data aug: alpha = 10, degree = 30
+weights= 0.3 0.3 0.4
