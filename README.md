@@ -103,6 +103,6 @@ Les résultats ne sont pas satisfaisants meme si le Dice est élevé et le loss 
 - Implémentation de la normalisation Z-score 
 - Initialisation Xavier pour les poids
 
-[Exemple d'image](Images/resunet5.png)
+![Exemple d'image](Images/resunet5.png)
 
 ![Exemple d'image](Images/resunet6.png)
